@@ -1,0 +1,20 @@
+# Default input/output directories
+input/
+output/
+
+# Test files
+*.mp4
+*.gif
+
+# Temporary palette files
+*_palette.png
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
